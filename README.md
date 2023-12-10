@@ -1,2 +1,4 @@
 # odin-css-tasks
- This is a repo dedicated to doing the TOP (The Odin Project) CSS foundations tasks and meant as a way for me to track my progress
+This is a public repo showing my progress towards the web dev journey from The Odin Project.
+Currently organised by the name of the assignment.
+CSS Methods is the first assignment.
