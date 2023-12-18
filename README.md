@@ -4,3 +4,5 @@ Currently organised by the name of the assignment.
 CSS Methods is the first assignment.
 
 Class ID Selectors is the second assignment.
+
+test for vscode commit messages
