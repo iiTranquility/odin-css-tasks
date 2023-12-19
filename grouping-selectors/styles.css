@@ -1,11 +1,14 @@
-/* Add CSS Styling */
-
-.avatar.proportioned {
-    height: auto;
-    width: 300px;
+.button {
+    background-color: black;
+    color: white;
 }
 
-.avatar.distorted {
-    width: 200px;
-    height: 400px;
+.yellow {
+    background-color: yellow;
+}
+
+.button,
+.yellow {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
