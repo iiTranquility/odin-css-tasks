@@ -1,19 +1,18 @@
-.class {
+.odd {
     background-color: lightcoral;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#font-change {
+.font-change {
     font-size: 24px;
 }
 
-#one {
+#two {
     color: blue;
     font-size: 36px;
 }
 
-#two {
+#four {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bolder;
 }
