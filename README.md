@@ -1,8 +1,5 @@
 # odin-css-tasks
 This is a public repo showing my progress towards the web dev journey from The Odin Project.
 Currently organised by the name of the assignment.
-CSS Methods is the first assignment.
 
-Class ID Selectors is the second assignment.
-
-test for vscode commit messages
+I've numbered them according to the tasks on https://github.com/TheOdinProject/css-exercises in the foundations folder :)
